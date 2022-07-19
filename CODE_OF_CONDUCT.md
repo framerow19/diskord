@@ -27,7 +27,7 @@ The following behaviors are expected and requested of all community members:
  * Be mindful of your surroundings and of your fellow participants. Alert community leaders if you notice a dangerous situation, someone in distress, or violations of this Code of Conduct, even if they seem inconsequential.
  * Remember that community event venues may be shared with members of the public; please be respectful to all patrons of these locations.
 
-## 4. Unacceptable Behavior
+## 4. acceptable Behavior
 
 The following behaviors are considered harassment and are unacceptable within our community:
 
